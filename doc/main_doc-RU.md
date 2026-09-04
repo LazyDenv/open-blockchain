@@ -1,8 +1,5 @@
-<h1 align="center">Техническая документация open-blockchain</h1>
-
-<p align="center">
-  <strong>RU</strong> | <a href="main_doс-EN.md">EN</a>
-</p>
+<h1 align="center">Техническая документация open-blockchain</h1> 
+<p align="center"> <strong>RU</strong> | <a href="main_doс-EN.md">EN</a></p>
 
 ---
 
