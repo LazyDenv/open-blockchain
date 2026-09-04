@@ -6,7 +6,7 @@
 
 ## RU: О проекте и правила
 
-⚠️ **Проект еще не закончен!** Это развивающийся open-source блокчейн.
+⚠️ **Внимание:** Проект находится в **замороженном состоянии**. Активная разработка временно приостановлена, но архитектура полностью рабочая и готова к изучению или созданию форков!
 
 ### 🍴 Правила для форков (Forks)
 Вы можете свободно делать форк этого репозитория. Однако, **вы обязаны изменить название проекта**, если ваш форк создается для отдельного использования и вы не планируете отправлять свои изменения обратно в основной репозиторий (контрибьютить).
@@ -25,7 +25,7 @@
 
 ## EN: About and Rules
 
-⚠️ **This project is not finished!** It is an ongoing open-source blockchain development.
+
 
 ### 🍴 Rules for Forks
 Forks of this repository are welcome. However, **you must change the project name** if you do not plan to contribute your changes back to this repository and intend to use the fork independently.
